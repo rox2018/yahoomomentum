@@ -28,6 +28,7 @@ html {
   display: flex;
   align-items: center;
   margin-top: 1rem;
+  font-size: 2rem;
 }
 
 .roxy{
